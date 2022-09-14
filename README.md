@@ -1,4 +1,4 @@
-# Ballerina
+# Ballerina: Cloud Native Programming Language
 
 Ballerina is an open-source programming language for the cloud that makes it easier to use, combine, and create network services.
 
