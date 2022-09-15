@@ -1,1 +1,0 @@
-incompatible typedesc ITunesSearchResult found for 'text/javascript; charset=utf-8' mime type
