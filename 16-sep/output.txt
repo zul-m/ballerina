@@ -1,0 +1,9 @@
+>>> bal run hello_world_service.bal
+
+compiling source
+        hello_world_service.bal
+
+Running executable
+
+>>> curl http://localhost:9090/greeting
+Hello, World!
