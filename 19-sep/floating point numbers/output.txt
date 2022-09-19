@@ -1,0 +1,9 @@
+bal run .\floating_point_numbers.bal 
+Compiling source
+        floating_point_numbers.bal
+HINT [floating_point_numbers.bal:(11:16,11:26)] unnecessary condition: expression will always evaluate to 'true'
+
+Running executable
+
+true
+6.0

@@ -9,5 +9,5 @@ public function main() {
     // You can use compound assignment operations such as `+=` and `-=`.
     n += m;
 
-    io:print(n);
+    io:println(n);
 }
