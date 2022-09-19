@@ -1,0 +1,7 @@
+>>> bal run .\variables_and_types.bal 
+Compiling source
+        variables_and_types.bal
+
+Running executable
+
+Hello Ballerina
