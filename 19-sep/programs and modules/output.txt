@@ -1,0 +1,7 @@
+>>> bal run .\programs_and_modules.bal                                                                        SITECORE 
+Compiling source
+        programs_and_modules.bal
+
+Running executable
+
+Hello, World!  
