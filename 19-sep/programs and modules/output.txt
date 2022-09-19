@@ -1,4 +1,4 @@
->>> bal run .\programs_and_modules.bal                                                                        SITECORE 
+>>> bal run .\programs_and_modules.bal 
 Compiling source
         programs_and_modules.bal
 
