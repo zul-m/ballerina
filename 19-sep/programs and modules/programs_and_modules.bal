@@ -7,5 +7,5 @@ import ballerina/io;
 // `public` makes function visible outside the module.
 public function main() {
     // Here `io:println` means function `println` is in the module bound to prefix `io`.
-    io:print("Hello, World!");
+    io:println("Hello, World!");
 }

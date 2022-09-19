@@ -1,0 +1,7 @@
+>>> bal run .\integers.bal 
+Compiling source
+        integers.bal
+
+Running executable
+
+65536
