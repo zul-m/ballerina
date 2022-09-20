@@ -1,0 +1,7 @@
+>>> bal run .\booleans.bal
+Compiling source
+        booleans.bal
+
+Running executable
+
+1

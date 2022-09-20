@@ -1,0 +1,10 @@
+>>> bal run .\decimal_type.bal 
+Compiling source
+        decimal_type.bal
+HINT [decimal_type.bal:(18:16,18:28)] unnecessary condition: expression will always evaluate to 'true'
+
+Running executable
+
+100.08999999999999
+1E-9
+true
