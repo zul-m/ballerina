@@ -1,0 +1,8 @@
+>>> bal run .\strings.bal 
+Compiling source
+        strings.bal
+
+Running executable
+
+Hello😀
+e
