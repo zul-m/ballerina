@@ -1,0 +1,12 @@
+>>> bal run .\match_statement.bal 
+Compiling source
+        match_statement.bal
+
+Running executable
+
+number
+boolean
+string
+constant
+or
+any
