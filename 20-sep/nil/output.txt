@@ -1,0 +1,6 @@
+>>> bal run .\nil.bal 
+Compiling source
+        nil.bal
+
+Running executable
+
