@@ -1,0 +1,8 @@
+>>> bal run .\arrays.bal 
+Compiling source
+        arrays.bal
+
+Running executable
+
+1
+4
