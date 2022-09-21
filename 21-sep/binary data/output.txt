@@ -1,0 +1,5 @@
+>>> bal run .\binary_data.bal 
+Compiling source
+        binary_data.bal
+
+Running executable

@@ -1,0 +1,8 @@
+>>> bal run .\function_values.bal 
+Compiling source
+        function_values.bal
+
+Running executable
+
+[2]
+[1,3]

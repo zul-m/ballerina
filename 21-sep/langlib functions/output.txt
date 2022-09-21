@@ -1,0 +1,9 @@
+>>> bal run .\langlib_functions.bal 
+Compiling source
+        langlib_functions.bal
+
+Running executable
+
+b
+1
+1

@@ -1,0 +1,7 @@
+>>> bal run .\functions.bal 
+Compiling source
+        functions.bal
+
+Running executable
+
+16

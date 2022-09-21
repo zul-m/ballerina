@@ -1,0 +1,7 @@
+>>> bal run .\foreach_statement.bal 
+Compiling source
+        foreach_statement.bal
+
+Running executable
+
+v1:61.5 v2:61.0
