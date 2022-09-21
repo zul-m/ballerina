@@ -1,0 +1,10 @@
+>>> bal run .\structural_typing.bal 
+Compiling source
+        structural_typing.bal
+HINT [structural_typing.bal:(5:16,5:24)] unnecessary condition: expression will always evaluate to 'true'
+HINT [structural_typing.bal:(7:16,7:37)] unnecessary condition: expression will always evaluate to 'true'
+
+Running executable
+
+true
+true
