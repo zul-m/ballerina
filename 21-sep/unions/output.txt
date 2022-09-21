@@ -1,0 +1,8 @@
+>>> bal run .\unions.bal 
+Compiling source
+        unions.bal
+
+Running executable
+
+Rowan Atkinson
+Leslie Banks
