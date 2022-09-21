@@ -1,0 +1,7 @@
+>>> bal run .\while_statement.bal 
+Compiling source
+        while_statement.bal
+
+Running executable
+
+2
