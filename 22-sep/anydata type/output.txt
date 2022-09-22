@@ -1,0 +1,8 @@
+>>> bal run .\anydata_type.bal 
+Compiling source                                                                                                                     9:10 
+        anydata_type.bal                                                                                                             ECORE 
+                                                                                                                                     9:20 
+Running executable                                                                                                                   ECORE 
+                                                                                                                                     9:20 
+[1,"string",true]                                                                                                                    ECORE 
+true

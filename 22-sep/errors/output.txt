@@ -1,0 +1,8 @@
+>>> bal run .\error_reporting.bal 
+Compiling source
+        error_reporting.bal
+
+Running executable
+
+123
+error("not a digit")
