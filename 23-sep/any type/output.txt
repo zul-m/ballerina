@@ -1,0 +1,9 @@
+>>> bal run .\any_type.bal 
+Compiling source                                                                                                                     ECORE 
+        any_type.bal
+                                                                                                                                     7:02 
+Running executable                                                                                                                   ECORE 
+
+1                                                                                                                                    7:02 
+true                                                                                                                                 ECORE 
+1.0
