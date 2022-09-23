@@ -1,4 +1,4 @@
-$ bal run .\type_inference.bal 
+>>> bal run .\type_inference.bal 
 Compiling source
         type_inference.bal
 
