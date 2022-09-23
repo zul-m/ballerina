@@ -1,0 +1,7 @@
+>>> bal run .\type_definitions.bal 
+Compiling source
+        type_definitions.bal
+
+Running executable
+
+{"x":"foo"}
