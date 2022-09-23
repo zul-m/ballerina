@@ -1,0 +1,8 @@
+$ bal run .\type_inference.bal 
+Compiling source
+        type_inference.bal
+
+Running executable
+
+str
+str

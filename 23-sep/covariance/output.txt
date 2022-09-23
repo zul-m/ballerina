@@ -1,0 +1,8 @@
+>>> bal run .\covariance.bal 
+Compiling source
+        covariance.bal
+
+Running executable
+
+error: {ballerina/lang.array}InherentTypeViolation {"message":"incompatible types: expected 'int', found 'string'"}
+        at covariance:main(covariance.bal:10)
