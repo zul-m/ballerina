@@ -1,0 +1,8 @@
+>>> bal run .\built_in_string_subtype.bal 
+Compiling source
+        built_in_string_subtype.bal
+
+Running executable
+
+x
+120
