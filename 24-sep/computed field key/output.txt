@@ -1,0 +1,7 @@
+>>> bal run .\computer_field_key.bal 
+Compiling source
+        computer_field_key.bal
+
+Running executable
+
+{"name":"John Doe","unique-identifier":"AQW123","_employeeId":"123EMP"}
