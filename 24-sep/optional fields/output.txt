@@ -1,0 +1,8 @@
+>>> bal run .\optional_fields.bal 
+Compiling source
+        optional_fields.bal
+
+Running executable
+
+Header value: {"from":"John","to":"Jill"}
+Subject value:

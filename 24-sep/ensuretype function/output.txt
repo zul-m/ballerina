@@ -1,0 +1,8 @@
+>>> bal run .\ensureType_function.bal 
+Compiling source
+        ensureType_function.bal
+
+Running executable
+
+12.5
+error("{ballerina}TypeCastError",message="incompatible types: 'string' cannot be cast to 'float'")

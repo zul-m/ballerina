@@ -1,0 +1,8 @@
+>>> bal run .\records.bal 
+Compiling source
+        records.bal
+
+Running executable
+
+2
+1

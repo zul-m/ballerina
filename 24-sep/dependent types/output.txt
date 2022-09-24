@@ -1,0 +1,8 @@
+>>> bal run .\dependent_types.bal 
+Compiling source
+        dependent_types.bal
+
+Running executable
+
+Ballerina
+12.5
