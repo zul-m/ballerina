@@ -1,0 +1,8 @@
+>>> bal run .\controlling_openness.bal 
+Compiling source
+        controlling_openness.bal
+
+Running executable
+
+{"x":1.0,"y":2.0}
+{"from":"Jane","to":"John"}
