@@ -1,0 +1,8 @@
+>>> bal run .\open_records.bal 
+Compiling source
+        open_records.bal
+
+Running executable
+
+{"name":"James","id":10}
+{"name":"John","country":"UK"}
