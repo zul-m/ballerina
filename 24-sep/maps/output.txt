@@ -1,0 +1,7 @@
+>>> bal run .\maps.bal 
+Compiling source
+        maps.bal
+
+Running executable
+
+1
